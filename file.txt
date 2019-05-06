@@ -1,6 +1,2 @@
 file:
-<<<<<<< HEAD
-=======
-File contains data
->>>>>>> bf40cbf... commit 1
-
+file 1
