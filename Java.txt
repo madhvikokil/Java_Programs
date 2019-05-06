@@ -1,0 +1,2 @@
+Java is a high level language
+Java was developed by James Gosling and team
